@@ -14,6 +14,8 @@
 
     <h3>Fitur 1</h3>
 
+    <h3> Fitur 2</h3>
+
 
     <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores aliquam, ut tempore eaque iure officiis facilis, unde nobis quibusdam blanditiis quasi fugit ducimus ipsam amet id harum illum nam architecto!
